@@ -1,0 +1,39 @@
+{
+  "name": "viccf",
+  "version": "1.0.0",
+  "description": "A simple wordpress contact form",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mithamovictor/viccf.git"
+  },
+  "author": "Victor Mithamo",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/mithamovictor/viccf/issues"
+  },
+  "homepage": "https://github.com/mithamovictor/viccf#readme",
+  "dependencies": {
+    "@babel/core": "^7.7.7",
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-latest-node": "^4.0.1",
+    "babel-register": "^6.26.0",
+    "browserlist": "^1.0.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "jquery": "^3.4.1",
+    "node-sass": "^4.13.0",
+    "rimraf": "^3.0.0",
+    "webpack": "^4.41.5"
+  }
+}
